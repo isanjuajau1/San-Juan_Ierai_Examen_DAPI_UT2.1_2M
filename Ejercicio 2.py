@@ -1,0 +1,7 @@
+nombre = input("Nombre y apellido porfavor:")
+nombre,apellido = nombre.split()
+print(nombre)
+vocal = str(print("Dime una vocal: "))
+palabra = str(input("dime una palabra: "))
+palabra= palabra.replace(vocal,)
+print(palabra)
